@@ -1,0 +1,1 @@
+simple peregrine falcon lab that uses feedback to take in and simulate the velocity of a peregrine falcon when flying towards the ground and adjusts the wing parameters accordingly to slow speed.
