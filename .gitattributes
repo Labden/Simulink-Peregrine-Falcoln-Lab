@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.slx binary
+*.mdl binary
+*.mat binary
+*.p binary
+*.slxp binary
+*.sldd binary
+*.mdlp binary
+*.mexa64 binary
+*.mexw64 binary
+*.mexmaci64 binary
